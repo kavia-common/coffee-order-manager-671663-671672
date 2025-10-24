@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/coffee-order-manager-671663-671672/coffee_app_frontend"
+}
